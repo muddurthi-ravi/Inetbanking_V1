@@ -1,0 +1,154 @@
+2024-02-01 21:09:04,833 - Ebanking -INFO - open the url
+2024-02-01 21:09:05,114 - Ebanking -INFO - Entered the Username
+2024-02-01 21:09:05,302 - Ebanking -INFO - Entered the password
+2024-02-01 21:09:06,686 - Ebanking -INFO - Login successfull
+2024-02-01 21:09:09,545 - Ebanking -INFO - Closed browser
+2024-02-01 21:14:29,456 - Ebanking -INFO - open the url
+2024-02-01 21:14:29,723 - Ebanking -INFO - Entered the Username
+2024-02-01 21:14:29,869 - Ebanking -INFO - Entered the password
+2024-02-01 21:14:31,114 - Ebanking -INFO - Login successfull
+2024-02-01 21:14:33,957 - Ebanking -INFO - Closed browser
+2024-02-02 10:00:29,487 - Ebanking -INFO - open the url
+2024-02-02 10:00:29,868 - Ebanking -INFO - Entered the Username
+2024-02-02 10:00:30,275 - Ebanking -INFO - Entered the password
+2024-02-02 10:00:31,330 - Ebanking -INFO - Login successfull
+2024-02-02 10:00:33,352 - Ebanking -INFO - Homepage opened
+2024-02-02 10:00:33,846 - Ebanking -INFO - Closed browser
+2024-02-02 21:14:46,193 - Ebanking -INFO - open the url
+2024-02-02 21:14:46,563 - Ebanking -INFO - Closed browser
+2024-02-02 21:15:42,502 - Ebanking -INFO - open the url
+2024-02-02 21:15:42,794 - Ebanking -INFO - Closed browser
+2024-02-02 21:58:44,523 - Ebanking -INFO - open the url
+2024-02-02 21:58:44,810 - Ebanking -INFO - Closed browser
+2024-02-02 21:59:53,244 - Ebanking -INFO - open the url
+2024-02-02 21:59:53,525 - Ebanking -INFO - Closed browser
+2024-02-02 22:03:24,601 - Ebanking -INFO - open the url
+2024-02-02 22:03:24,837 - Ebanking -INFO - Closed browser
+2024-02-02 22:07:08,866 - Ebanking -INFO - open the url
+2024-02-02 22:07:09,112 - Ebanking -INFO - Closed browser
+2024-02-02 22:34:52,042 - Ebanking -INFO - open the url
+2024-02-02 22:34:52,329 - Ebanking -INFO - Closed browser
+2024-02-02 22:36:12,314 - Ebanking -INFO - open the url
+2024-02-02 22:36:12,539 - Ebanking -INFO - Closed browser
+2024-02-02 22:38:54,296 - Ebanking -INFO - open the url
+2024-02-02 22:38:54,515 - Ebanking -INFO - Closed browser
+2024-02-02 22:43:02,677 - Ebanking -INFO - open the url
+2024-02-02 22:43:02,965 - Ebanking -INFO - Closed browser
+2024-02-02 22:49:16,777 - Ebanking -INFO - open the url
+2024-02-02 22:49:17,627 - Ebanking -INFO - Closed browser
+2024-02-02 22:50:19,594 - Ebanking -INFO - open the url
+2024-02-02 22:50:20,616 - Ebanking -INFO - user name provided
+2024-02-02 22:50:20,741 - Ebanking -INFO - password provided
+2024-02-02 22:50:26,065 - Ebanking -INFO - user name provided
+2024-02-02 22:50:26,132 - Ebanking -INFO - password provided
+2024-02-02 22:50:30,358 - Ebanking -INFO - Login passed
+2024-02-02 22:50:36,535 - Ebanking -INFO - user name provided
+2024-02-02 22:50:36,676 - Ebanking -INFO - password provided
+2024-02-02 22:50:41,899 - Ebanking -INFO - user name provided
+2024-02-02 22:50:42,168 - Ebanking -INFO - password provided
+2024-02-02 22:50:46,990 - Ebanking -INFO - user name provided
+2024-02-02 22:50:47,267 - Ebanking -INFO - password provided
+2024-02-02 22:50:51,232 - Ebanking -INFO - Login passed
+2024-02-02 22:50:57,085 - Ebanking -INFO - Closed browser
+2024-02-02 22:52:37,265 - Ebanking -INFO - open the url
+2024-02-02 22:52:54,283 - Ebanking -INFO - Closed browser
+2024-02-03 10:34:47,552 - Ebanking -INFO - open the url
+2024-02-03 10:34:48,866 - Ebanking -INFO - Username Entered..
+2024-02-03 10:34:48,954 - Ebanking -INFO - Password Entered..
+2024-02-03 10:34:49,413 - Ebanking -INFO - login done
+2024-02-03 10:34:49,435 - Ebanking -INFO - Invalid Alert is accepted
+2024-02-03 10:34:50,687 - Ebanking -INFO - Username Entered..
+2024-02-03 10:34:50,933 - Ebanking -INFO - Password Entered..
+2024-02-03 10:34:52,106 - Ebanking -INFO - login done
+2024-02-03 10:34:52,841 - Ebanking -INFO - Valid Alert is accepted
+2024-02-03 10:34:54,298 - Ebanking -INFO - Username Entered..
+2024-02-03 10:34:54,418 - Ebanking -INFO - Password Entered..
+2024-02-03 10:34:54,835 - Ebanking -INFO - login done
+2024-02-03 10:34:54,851 - Ebanking -INFO - Invalid Alert is accepted
+2024-02-03 10:34:56,277 - Ebanking -INFO - Username Entered..
+2024-02-03 10:34:56,397 - Ebanking -INFO - Password Entered..
+2024-02-03 10:34:56,803 - Ebanking -INFO - login done
+2024-02-03 10:34:56,827 - Ebanking -INFO - Invalid Alert is accepted
+2024-02-03 10:34:58,336 - Ebanking -INFO - Username Entered..
+2024-02-03 10:34:58,439 - Ebanking -INFO - Password Entered..
+2024-02-03 10:34:59,551 - Ebanking -INFO - login done
+2024-02-03 10:35:00,482 - Ebanking -INFO - Valid Alert is accepted
+2024-02-03 10:35:01,882 - Ebanking -INFO - Closed browser
+2024-02-05 15:16:32,208 - Ebanking -INFO - open the url
+2024-02-05 15:16:32,672 - Ebanking -INFO - Closed browser
+2024-02-05 15:18:14,722 - Ebanking -INFO - open the url
+2024-02-05 15:18:25,208 - Ebanking -INFO - Closed browser
+2024-02-05 15:28:47,653 - Ebanking -INFO - open the url
+2024-02-05 15:28:55,408 - Ebanking -INFO - Closed browser
+2024-02-05 20:09:40,072 - Ebanking -INFO - open the url
+2024-02-05 20:09:47,883 - Ebanking -INFO - Closed browser
+2024-02-05 20:56:38,159 - Ebanking -INFO - open the url
+2024-02-05 20:56:46,338 - Ebanking -INFO - Closed browser
+2024-02-05 21:00:38,875 - Ebanking -INFO - open the url
+2024-02-05 21:00:42,726 - Ebanking -INFO - Closed browser
+2024-02-05 21:01:14,936 - Ebanking -INFO - open the url
+2024-02-05 21:01:26,401 - Ebanking -INFO - Closed browser
+2024-02-06 13:29:09,125 - Ebanking -INFO - open the url
+2024-02-06 13:29:15,026 - Ebanking -INFO - Closed browser
+2024-02-06 13:29:29,335 - Ebanking -INFO - open the url
+2024-02-06 13:29:36,631 - Ebanking -INFO - Closed browser
+2024-02-06 13:31:28,997 - Ebanking -INFO - open the url
+2024-02-06 13:31:37,356 - Ebanking -INFO - Closed browser
+2024-02-06 16:16:25,952 - Ebanking -INFO - open the url
+2024-02-06 16:16:26,181 - Ebanking -INFO - Username Entered..
+2024-02-06 16:16:26,286 - Ebanking -INFO - Password Entered..
+2024-02-06 16:16:27,369 - Ebanking -INFO - login Done..
+2024-02-06 16:16:28,010 - Ebanking -INFO - New customer page Opened
+2024-02-06 16:16:28,010 - Ebanking -INFO - Customer Details entering...
+2024-02-06 16:16:32,543 - Ebanking -INFO - Customer Registered Successfully!!!
+2024-02-06 16:16:32,782 - Ebanking -INFO - Closed browser
+2024-02-06 16:19:06,441 - Ebanking -INFO - open the url
+2024-02-06 16:19:06,822 - Ebanking -INFO - Entered the Username
+2024-02-06 16:19:06,974 - Ebanking -INFO - Entered the password
+2024-02-06 16:19:07,909 - Ebanking -INFO - Login successfull
+2024-02-06 16:19:09,932 - Ebanking -INFO - Homepage opened
+2024-02-06 16:19:10,154 - Ebanking -INFO - Closed browser
+2024-02-06 16:19:14,270 - Ebanking -INFO - open the url
+2024-02-06 16:19:15,463 - Ebanking -INFO - Username Entered..
+2024-02-06 16:19:15,547 - Ebanking -INFO - Password Entered..
+2024-02-06 16:19:15,980 - Ebanking -INFO - login done
+2024-02-06 16:19:15,992 - Ebanking -INFO - Invalid Alert is accepted
+2024-02-06 16:19:16,897 - Ebanking -INFO - Username Entered..
+2024-02-06 16:19:17,008 - Ebanking -INFO - Password Entered..
+2024-02-06 16:19:17,932 - Ebanking -INFO - login done
+2024-02-06 16:19:18,617 - Ebanking -INFO - Valid Alert is accepted
+2024-02-06 16:19:19,512 - Ebanking -INFO - Username Entered..
+2024-02-06 16:19:19,594 - Ebanking -INFO - Password Entered..
+2024-02-06 16:19:20,127 - Ebanking -INFO - login done
+2024-02-06 16:19:20,140 - Ebanking -INFO - Invalid Alert is accepted
+2024-02-06 16:19:22,329 - Ebanking -INFO - Username Entered..
+2024-02-06 16:19:22,424 - Ebanking -INFO - Password Entered..
+2024-02-06 16:19:25,428 - Ebanking -INFO - login done
+2024-02-06 16:19:25,453 - Ebanking -INFO - Invalid Alert is accepted
+2024-02-06 16:19:26,965 - Ebanking -INFO - Username Entered..
+2024-02-06 16:19:27,339 - Ebanking -INFO - Password Entered..
+2024-02-06 16:19:28,447 - Ebanking -INFO - login done
+2024-02-06 16:19:30,547 - Ebanking -INFO - Valid Alert is accepted
+2024-02-06 16:19:34,080 - Ebanking -INFO - Closed browser
+2024-02-06 16:19:37,737 - Ebanking -INFO - open the url
+2024-02-06 16:19:37,881 - Ebanking -INFO - Username Entered..
+2024-02-06 16:19:37,977 - Ebanking -INFO - Password Entered..
+2024-02-06 16:19:38,941 - Ebanking -INFO - login Done..
+2024-02-06 16:19:39,449 - Ebanking -INFO - New customer page Opened
+2024-02-06 16:19:39,450 - Ebanking -INFO - Customer Details entering...
+2024-02-06 16:19:43,140 - Ebanking -INFO - Closed browser
+2024-02-06 17:34:33,538 - Ebanking -INFO - open the url
+2024-02-06 17:34:33,721 - Ebanking -INFO - Entered the Username
+2024-02-06 17:34:33,791 - Ebanking -INFO - Entered the password
+2024-02-06 17:34:34,892 - Ebanking -INFO - Login successfull
+2024-02-06 17:34:36,922 - Ebanking -INFO - Homepage opened
+2024-02-06 17:34:37,169 - Ebanking -INFO - Closed browser
+2024-02-06 17:34:41,553 - Ebanking -INFO - open the url
+2024-02-06 17:34:41,694 - Ebanking -INFO - Username Entered..
+2024-02-06 17:34:41,759 - Ebanking -INFO - Password Entered..
+2024-02-06 17:34:42,703 - Ebanking -INFO - login Done..
+2024-02-06 17:34:43,320 - Ebanking -INFO - New customer page Opened
+2024-02-06 17:34:43,321 - Ebanking -INFO - Customer Details entering...
+2024-02-06 17:34:49,762 - Ebanking -INFO - Customer Registered Successfully!!!
+2024-02-06 17:34:49,763 - Ebanking -INFO - Customer Registered Successfully!!!
+2024-02-06 17:34:49,997 - Ebanking -INFO - Closed browser
